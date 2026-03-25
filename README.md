@@ -23,10 +23,12 @@ Explainable AI (XAI) methods such as SHAP and LIME.
 
 ## How to Run
 
-```bash
-pip install -r requirements.txt
-python xai_evaluation_framework/run_experiments.py
+python -m xai_evaluation_framework.run_experiments
 
 ## Project Architecture
+
 ![Architecture Diagram](docs/architecture.png)
+
+```
+
 ```
